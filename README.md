@@ -66,7 +66,6 @@ The dataset should include the following parameters:
 | `rainfall`    | Rainfall in mm                           |
 | `label`       | The recommended crop (for crop dataset)  |
 
-Datasets can be obtained from sources like [Kaggle](https://www.kaggle.com/) or custom agricultural data collections.
 ---
 
 ## License
