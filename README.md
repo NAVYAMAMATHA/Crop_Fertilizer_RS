@@ -1,0 +1,1 @@
+# edunet_crop_fertilizer_rs
